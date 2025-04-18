@@ -1,0 +1,1 @@
+This repository contains scripts for performing Mendelian Randomization (MR) analysis using the TwoSampleMR R package, followed by post-analysis with MR-PRESSO to detect and correct for pleiotropy. The workflow analyzes two GWAS datasets: one for the exposure and one for the outcome.
