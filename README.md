@@ -10,10 +10,10 @@ To run the scripts, ensure you have the following R packages installed:
 TwoSampleMR: For performing two-sample MR analysis.
 MRPRESSO: For pleiotropy detection and correction.
 Additional dependencies (automatically installed with the above packages): dplyr, ggplot2, etc.
-
+```R
 install.packages("TwoSampleMR")
 install.packages("MRPRESSO")
-
+```
 Data Requirements
 The analysis requires two GWAS summary statistics datasets:
 
