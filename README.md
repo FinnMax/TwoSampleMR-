@@ -15,6 +15,7 @@ install.packages("TwoSampleMR")
 install.packages("MRPRESSO")
 ```
 Data Requirements
+
 The analysis requires two GWAS summary statistics datasets:
 
 Exposure GWAS: A dataset containing summary statistics for the exposure trait (e.g., SNP IDs, effect sizes, standard errors, p-values).
