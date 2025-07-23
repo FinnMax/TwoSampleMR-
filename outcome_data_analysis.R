@@ -75,4 +75,3 @@ head (data_pruned_1)
 #res <- mr(data_pruned_1, method_list = c("mr_egger_regression", "mr_ivw", "mr_weighted_median"))
 #p1 <- mr_scatter_plot(res, data_pruned_1)
 #p1[[1]]
-print("hello")
